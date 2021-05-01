@@ -1,5 +1,5 @@
-## Algorithm-Made-Easy
+ Algorithm-Made-Easy
 
-## #10days30problems
+ #10days30problems
 
-## May 1 to May 10
+May 1 to May 10
