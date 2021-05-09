@@ -1,6 +1,5 @@
  ## Algorithms Made Easy
- 
- About the challenge :
+
 Next Steps for Coding Challenge !!!!
 For the next 10 days starting from 1st May
 1. Pickup any 3 problems from https://lnkd.in/esFXt5U
