@@ -13,8 +13,8 @@ PS :This will also help build your Git profile stronger 🤘🤘🤘
 
 ***
 
-        | Tables        | Are           | Cool  |
-        | ------------- |:-------------:| -----:|
-        | col 3 is      | right-aligned | $1600 |
-        | col 2 is      | centered      |   $12 |
-        | zebra stripes | are neat      |    $1 |
+   | Day               | Problem           | Link  |
+   | -------------     |:-------------:    | -----:|
+   | col 3 is          | right-aligned | [Fibonacci Number](https://github.com/harshpreet0508/Algorithms-Made-Easy/blob/main/day01/1.%20Fibonacci%20Number/solution.cpp) |
+   | col 2 is      | centered      |   $12 |
+   | zebra stripes | are neat      |    $1 |
