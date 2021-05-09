@@ -13,8 +13,11 @@ PS :This will also help build your Git profile stronger 🤘🤘🤘
 
 ***
 
-   | Day               | Problem           | Link  |
-   | -------------     |:-------------:    | -----:|
-   | col 3 is          | right-aligned | [Fibonacci Number](https://github.com/harshpreet0508/Algorithms-Made-Easy/blob/main/day01/1.%20Fibonacci%20Number/solution.cpp) |
-   | col 2 is      | centered      |   $12 |
-   | zebra stripes | are neat      |    $1 |
+   | Day          | Problem          
+   | ------------ |:-------------:  
+   |   1         | [Fibonacci Number](https://github.com/harshpreet0508/Algorithms-Made-Easy/blob/main/day01/1.%20Fibonacci%20Number/solution.cpp) |
+   |             | [Deepest Leaves Sum](https://github.com/harshpreet0508/Algorithms-Made-Easy/tree/main/day01/2.%20Deepest%20Leaves%20Sum) |
+   |             | [Subarray Sum Equals k](https://github.com/harshpreet0508/Algorithms-Made-Easy/blob/main/day01/3.%20Subarray%20Sum%20Equals%20K/solution.cpp)|
+   |             | [Plus One](https://github.com/harshpreet0508/Algorithms-Made-Easy/blob/main/day02/1.%20Plus%20One/solution.cpp)|
+   |             | [3 Sum](https://github.com/harshpreet0508/Algorithms-Made-Easy/blob/main/day02/2.%20%203%20Sum/solution.cpp)|
+   |             | [Longest Valid Parentheses](https://github.com/harshpreet0508/Algorithms-Made-Easy/blob/main/day02/3.%20Longest%20Valid%20Parentheses/solution.cpp)|
